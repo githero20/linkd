@@ -4,11 +4,14 @@
 
 ## Description
 
-This is my version of the MERN stack application from Brad Traversy's "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). It is a social network app that includes authentication, profiles and forum posts.
+![Link'D Demo Image](/client/public/project-4_1.gif "Link'D Demo")
 
-Building this web application from scratch helped strengthen my understanding of the various aspects of the MERN stack, and how they can be combined to run seamlessly.
+This is the 'Software Developer Social Network', a social network app for techies from all fields.
+It includes authentication, profile creation, posts and comments.
+Building this full stack web application from scratch helped strengthen my understanding of the various aspects of the MERN stack, and how they can be combined to run seamlessly.
 
-Of course, I made some changes to Brad's original code. However, major credit goes to Brad for this great course, from which I learned a lot.
+This project was inspired by Brad Traversy's "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA).
+A great course, from which I learned a lot.
 
 ## How to run
 
