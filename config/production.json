@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://mern-app:ghpw3Uir9OOGShLa@omogbai-backup.iarbz.mongodb.net/devConnect?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://mern-app:Gyi1PJMstOJgUKk1@omogbai-backup.iarbz.mongodb.net/?retryWrites=true&w=majority",
   "jwtSecret": "secretToken",
   "githubToken": "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"
 }
